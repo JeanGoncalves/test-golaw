@@ -67,7 +67,7 @@ function resize () {
 }
 
 /**
- * Função para aumentar o tamanho da tarefa e reduzir o tamanho od conteudo
+ * Função para aumentar o tamanho da tarefa e reduzir o tamanho do conteudo
  * Function to increment task width and decrease content width
  */
 function increase () {
@@ -82,7 +82,7 @@ function increase () {
 }
 
 /**
- * Função para reduzir o tamanho da tarefa e aumentar o tamanho od conteudo
+ * Função para reduzir o tamanho da tarefa e aumentar o tamanho do conteudo
  * Function to decrease task width and increment content width
  */
 function decrease () {
